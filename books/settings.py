@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
-BOT_NAME = 'books'
+BOT_NAME = 'properties'
 
-SPIDER_MODULES = ['books.spiders']
-NEWSPIDER_MODULE = 'books.spiders'
+SPIDER_MODULES = ['properties.spiders']
+NEWSPIDER_MODULE = 'properties.spiders'
 
 ROBOTSTXT_OBEY = True
 HTTPCACHE_ENABLED = True
